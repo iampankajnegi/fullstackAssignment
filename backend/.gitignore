@@ -1,0 +1,5 @@
+# comment which does not want to push on git
+
+/node_modules
+
+.env
